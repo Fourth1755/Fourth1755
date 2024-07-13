@@ -1,4 +1,11 @@
-## Hi there 👋 I'm Fourth
+## Hi there 👋 I'm Fourth Fullstack Developer
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm I graduated from Computer Engineer at the Kasetsart University Kamphaeng Saen Campus.\
+🌱 &nbsp;I'm on track for learning more about User Experience, Design Patterns, and API.\
+✍️ &nbsp;In my free time, I like to play games and watch anime..\
+✉️ &nbsp;You can shoot me an email at pooriwat.poolab@gmail.com I'll try to respond as soon as I can.\
 
 <p align="center">
 <a href="https://github.com/Fourth1755">
